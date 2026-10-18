@@ -1,1 +1,4 @@
-Copyright (c) 2026 Neon Stoic. All rights reserved. This repository is made public for viewing purposes only. No part of this publication may be reproduced, distributed, or transmitted in any form without prior written permission.
+License & Copyright
+Copyright © 2026. All Rights Reserved.
+
+This repository is made public for reading and version-tracking purposes only. No part of this publication may be reproduced, distributed, forked for derivative works, or transmitted in any form or by any means without the prior written permission of the author.
